@@ -1,6 +1,6 @@
-# Time Tracking System
 
-# 🕒 Time Tracking Management Software
+
+# 🕒 Time Tracking System
 
 A web-based application for managing employee timesheets, departments, designations, and projects with secure login for employees and administrators.
 
